@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/kbz8boy.css">
+<link rel="stylesheet" href="https://use.typekit.net/kbz8boy.css">
+<link rel="stylesheet" href="https://use.typekit.net/kbz8boy.css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+	
+</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header>&nbsp;</header>
+  <nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+			
+	 </ul>
+	</nav>
+  <!--Begin floated elements.-->
+  <aside><h3>I love to go on family vacations during the summer, and we always go to a beach in Florida. What's one animal that you always see or hear about in Florida? Manatees! Ever since my first trip to Florida, I have fallen in love with Manatees and want to do as much as I can to help protect and save them, as well as educate others about manatees and how to create a safer enviroment for them.</h3></aside>
+  
+	  <!-- TemplateBeginEditable name="main-content" -->
+		<main>
+		  <h1>Page Title</h1>
+	  </main>
+	  <!-- TemplateEndEditable -->	  <!--End floated elements.-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
